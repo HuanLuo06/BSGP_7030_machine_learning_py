@@ -11,6 +11,3 @@ dependencies:
   - scikit-learn
   - numpy
   - scipy
-  - statsmodels
-  - seaborn
-  - pymc
