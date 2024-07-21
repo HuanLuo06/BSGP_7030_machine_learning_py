@@ -1,0 +1,16 @@
+name: Python-environment
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.9
+  - plotly
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - numpy
+  - scipy
+  - statsmodels
+  - seaborn
+  - pymc
